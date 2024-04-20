@@ -1,0 +1,11 @@
+.profile-banner {
+    margin: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    margin-right: 1rem;
+}

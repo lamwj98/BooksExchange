@@ -53,6 +53,9 @@ Quick-win:
 Other (maybe better) Implementations:
 - Consider real-time chat updates too (may need the use of socket/real-time communication(RTC) libraries)
 
+### Authentication
+- Better authentication checks when making a request (e.g. check for token when making a HTTP request and that the request by the user is only models that are related to him)
+
 
 ### Other Features
 - Consider a discover feature where random unclaimed books will be recommended to user
